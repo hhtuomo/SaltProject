@@ -1,0 +1,2 @@
+# SaltProject
+School coursework project
